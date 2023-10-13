@@ -8,3 +8,4 @@ DASHBOARD 3:https://drive.google.com/file/d/1NEi1kj8krJ3CE7LMij-oUQWxJ817-b9m/vi
 DASHBOARD 4:https://drive.google.com/file/d/1NLNsQmnCBpDlv04-pdtk2CyQn8d-sqCe/view?usp=drivesdk
 STORY: https://drive.google.com/file/d/1NRrIw6ntxxLq6LBwHgI24WoXe9k0nD3g/view?usp=drivesdk
 DEMONSTRATION VIDEO:https://drive.google.com/file/d/1NQp0tzheGVxWvJm4SmNusLboWyhrp2Fy/view?usp=drivesdk
+SCREENSHOTS: https://drive.google.com/file/d/1NadDmD0CMONWrVJp7g5VMSGvo51DQlu1/view?usp=drivesdk
